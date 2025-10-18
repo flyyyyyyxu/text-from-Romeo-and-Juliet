@@ -5,7 +5,7 @@ target_word_1 = "Romeo"  # Replace with the word you want to count
 target_word_2 = "Juliet" 
 
 # Read the txt file
-fhand = open('/Users/flyyyyyyxu/Documents/python fall/text-from-Romeo-and-Juliet/exercise-files/romeo-full.txt', 'r')
+fhand = open('/Users/flyyyyyyxu/Documents/python fall/exercise/romeo-full.txt', 'r')
 
 # Define variables to count things
 line_count = 0  # Count lines
